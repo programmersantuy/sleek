@@ -85,3 +85,7 @@ The kerel summation radius $r$ is equal to the N-simplex height $h$.
 
 $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
 Happy hacking!
+
+### Youtube
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OIlOE4ZNFqM/0.jpg)](http://www.youtube.com/watch?v=OIlOE4ZNFqM)
